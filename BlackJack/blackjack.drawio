@@ -1,0 +1,114 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="grVJZtXcnQmB5wAHvI1Z">
+    <mxGraphModel dx="466" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UU01G6455JdhrPcF-qpx-1" value="Black Jack&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-3" value="int1" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="120" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-4" value="int2" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-5" value="int3" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="270" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="160" as="sourcePoint" />
+            <mxPoint x="290" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-8" value="player amount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="138" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-9" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="220" as="sourcePoint" />
+            <mxPoint x="280" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-10" value="real player amount" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="188" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-11" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="300" as="sourcePoint" />
+            <mxPoint x="150" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-12" value="round" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UU01G6455JdhrPcF-qpx-11">
+          <mxGeometry x="0.2923" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="UU01G6455JdhrPcF-qpx-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="160" as="sourcePoint" />
+            <mxPoint x="320" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-14" value="two number will generate automatic from 1&amp;nbsp; to 21 for each player" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-15" value="int4" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-17" value="int5" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="500" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-18" value="int6" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="580" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-20" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="420" as="sourcePoint" />
+            <mxPoint x="390" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-21" value="hold or next card" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="390" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="520" as="sourcePoint" />
+            <mxPoint x="380" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-23" value="show all player card&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="205" y="483" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-24" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="600" as="sourcePoint" />
+            <mxPoint x="240" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="600" />
+              <mxPoint x="240" y="600" />
+              <mxPoint x="350" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-25" value="continue or break&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="563" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-26" value="ascii art will show depending on his card number" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UU01G6455JdhrPcF-qpx-27" value="program will show win or lose&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

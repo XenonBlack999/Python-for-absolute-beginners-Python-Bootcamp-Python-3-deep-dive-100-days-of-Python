@@ -1,0 +1,28 @@
+If block
+if condition :
+	statement
+	statement
+	.........
+	
+	
+if-else block 
+
+if condition :
+	statement
+	statement
+else :
+	statement
+	statement
+	
+	
+if -elif -else block
+
+if condition :
+	statement
+	statement
+elif :
+	statement
+	statement
+else:
+	statement
+	statement
