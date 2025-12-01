@@ -28,5 +28,5 @@ To run any of the projects:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/XenonBlack999/beginner_python_project.git
-   cd beginner_python_project
+   git https://github.com/XenonBlack999/Python-for-absolute-beginners-Python-Bootcamp-Python-3-deep-dive-100-days-of-Python.git
+  
